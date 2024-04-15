@@ -1,5 +1,5 @@
 # DW1820-drivers
-drivers for DW1820A
+Drivers for DW1820A (all drivers have been downloaded from https://deviceinbox.com/id/ven-14E4-dev-43A3.html)
 ## Wifi
 Click on dpinst after unzip
 ## Bluetooth
