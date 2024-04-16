@@ -1,4 +1,4 @@
-# DW1820-drivers
+# DW1820A-drivers
 Drivers for DW1820A (all drivers have been downloaded from https://deviceinbox.com/id/ven-14E4-dev-43A3.html)
 ## Wifi
 Click on dpinst after unzip
